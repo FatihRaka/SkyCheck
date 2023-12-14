@@ -11,7 +11,7 @@ import 'package:sky_check/pages/others_page.dart';  // Import halaman OthersPage
 
 
 class OverviewPage extends StatelessWidget {
-  TextEditingController searchController = TextEditingController();
+  final TextEditingController searchController = TextEditingController();
 
   void navigateToOthersPage(BuildContext context, String cityName) {
     Navigator.push(
