@@ -1,20 +1,3 @@
-<<<<<<< HEAD
-# sky_check
+EN: SkyCheck is a Flutter-based application designed to serve as a weather monitoring tool, utilizing the openweathermap API. Users can access various weather data, including temperature, weather conditions, humidity, and air pressure. Its features encompass monitoring the current weather in the user's location, major cities worldwide, as well as other specific cities through the search functionality.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# SkyCheck
->>>>>>> b8a91015aea58860021d0d5a47139893c95730e7
+ID: SkyCheck adalah aplikasi berbasis Flutter yang dirancang sebagai alat pemantau cuaca, memanfaatkan API openweathermap. Pengguna dapat mengakses berbagai data cuaca, termasuk suhu, kondisi cuaca, kelembaban, dan tekanan udara. Fiturnya mencakup pemantauan cuaca saat ini di lokasi pengguna, kota-kota besar di seluruh dunia, serta kota-kota tertentu melalui fitur pencarian.
